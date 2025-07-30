@@ -1,0 +1,43 @@
+.my{
+    background-color: green;
+    text-align: center;
+}
+.a{
+    color: white;
+}
+.aa{
+color: white;
+}
+.b{
+    background-color:rgb(230, 230, 230)
+}
+button{
+    background-color: green;
+    color: white;
+    width: 8%;
+}
+input{
+    width: 20%;
+}
+textarea{
+    width: 20%;
+}
+td, th{
+    border: 1px solid rgb(0, 0, 0, 0.2);
+    text-align: left;
+}
+.bb{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.bbb{
+    width: 100%;
+    
+}
+.s{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 2px;
+}
